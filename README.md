@@ -6,6 +6,7 @@ I want to make the timeline of the Nam June Paik (July 20, 1932 – January 29, 
 
 
 Mar.10 
+
 I thought his later works using televisions are very interesting to me. So, concept of my webpage is going to be TV screen and want to use glitch effect or pixel images. And I could get some ideas from his works. While researching Nam-june Paik’s works, I noticed that he enjoyed displaying real objects and his video works together. So I am thinking of combining photography and video or GIF.  Also, he used the videos that They may look the same, but  has different angles in the work called TV watch. So I am going to use repeated similar small images together. Also, in one of his work, he approached magnet to the tv screen to create interesting patterns and the patterns changes according to movement of magnet. I think that magnet could be thought to be a mouse and can be applied to my project.
 
 
